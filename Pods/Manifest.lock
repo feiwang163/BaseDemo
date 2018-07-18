@@ -1,0 +1,39 @@
+PODS:
+  - DZNEmptyDataSet (1.8.1)
+  - Masonry (1.0.2)
+  - MJRefresh (3.1.12)
+  - SDWebImage (4.0.0-beta2):
+    - SDWebImage/Core (= 4.0.0-beta2)
+  - SDWebImage/Core (4.0.0-beta2)
+  - SVProgressHUD (2.1.2)
+  - XHLaunchAd (3.3.0)
+  - XMNetworking (1.0.1):
+    - XMNetworking/Core (= 1.0.1)
+    - XMNetworking/Lib (= 1.0.1)
+  - XMNetworking/Core (1.0.1):
+    - XMNetworking/Lib/AFNetworking-3.1.0
+  - XMNetworking/Lib (1.0.1):
+    - XMNetworking/Lib/AFNetworking-3.1.0 (= 1.0.1)
+  - XMNetworking/Lib/AFNetworking-3.1.0 (1.0.1)
+
+DEPENDENCIES:
+  - DZNEmptyDataSet (~> 1.8.1)
+  - Masonry (~> 1.0.2)
+  - MJRefresh (~> 3.1.12)
+  - SDWebImage (~> 4.0.0-beta2)
+  - SVProgressHUD (~> 2.1.2)
+  - XHLaunchAd (~> 3.3.0)
+  - XMNetworking (~> 1.0.1)
+
+SPEC CHECKSUMS:
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+  SDWebImage: e379f33106cf8d6766f970c0ef1c3fb609c94d78
+  SVProgressHUD: c404a55d78acbeb7ebb78b76d3faf986475a6994
+  XHLaunchAd: 6e30e509f09a6a16222a4615afa03c7409e2db59
+  XMNetworking: 1268706bea6e16b4187e22033618e13fa889e3c9
+
+PODFILE CHECKSUM: d40d36e74d9f2d062b760b3886b5890a4237cd4c
+
+COCOAPODS: 1.0.1
